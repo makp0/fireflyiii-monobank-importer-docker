@@ -1,3 +1,4 @@
 [submodule "fireflyiii-monobank-importer"]
 	path = fireflyiii-monobank-importer
 	url = https://github.com/mariko357/fireflyiii-monobank-importer.git
+	branch = main
