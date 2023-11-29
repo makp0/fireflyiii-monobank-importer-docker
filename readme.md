@@ -1,7 +1,7 @@
 # Docker container for [fireflyiii-monobank-importer](https://github.com/mariko357/fireflyiii-monobank-importer)
 
 ## Building the image:
-1. `git clone --recursive https://github.com/mariko357/fireflyiii-monobank-importer-docker.git && cd fireflyiii-monobank-importer-docker`
+1. `git clone --recursive https://github.com/mariko357/fireflyiii-monobank-importer-docker.git && cd fireflyiii-monobank-importer-docker && git clone https://github.com/mariko357/fireflyiii-monobank-importer.git`
 2. `docker build -t fireflyiii-mono-importer .`
 
 ## Usage:
